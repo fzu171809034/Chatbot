@@ -1,0 +1,4 @@
+BoBo Company
+Sign in at 7am on Mondays, Wednesdays and Fridays and leave at 5pm.
+Sign in at 8am on Tuesdays and Thursdays and leave at 3pm.
+Closed on Saturdays and Sundays.

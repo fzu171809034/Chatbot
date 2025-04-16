@@ -1,0 +1,5 @@
+Cleaning staff salary is 3,000 USD per month.
+Driver salary is 4,000 USD per month.
+Security guard salary is 3,500 USD per month.
+Engineer salary is 7,000 USD per month.
+Sales salary is 6,000 USD per month.

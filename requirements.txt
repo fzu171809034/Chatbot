@@ -1,0 +1,6 @@
+langchain
+openai
+gradio
+faiss-cpu
+duckduckgo-search
+requests
